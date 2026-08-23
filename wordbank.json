@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "version": "0.1",
+    "site": "frasesparaboda.com",
+    "note": "西语婚礼祝福语词库 v0.1：按主题分类，手工精写西班牙语",
+    "quality": "地道西班牙语表达，覆盖西语婚礼文化"
+  },
+  "themes": {
+    "originales": {
+      "label": "Frases para Bodas Originales",
+      "intro": "Frases únicas y creativas que se salen de lo común para felicitar a los novios en su gran día.",
+      "items": [
+        "Que vuestro amor sea como el buen vino: que mejore con los años y se disfrute en cada brindis.",
+        "Hoy no solo se casan dos personas, se unen dos historias que deciden escribirse juntas. ¡Felicidades!",
+        "Que la vida os regale mil motivos para celebrar y que este día sea el primero de una gran historia.",
+        "El amor verdadero no se encuentra, se construye. Vosotros ya habéis puesto los cimientos. ¡Felicidades!",
+        "Que vuestro camino juntos esté lleno de risas, complicidad y momentos que valgan la pena recordar.",
+        "Hoy empieza la mejor aventura de vuestras vidas. Que nunca os falte amor, salud y mucha suerte.",
+        "Que vuestra boda sea el capítulo más bonito de una historia que acaba de empezar."
+      ]
+    },
+    "cortas": {
+      "label": "Frases Cortas para Felicitar Bodas",
+      "intro": "Frases breves y sinceras, perfectas para tarjetas, mensajes y redes sociales.",
+      "items": [
+        "¡Enhorabuena, pareja! Que seáis muy felices.",
+        "Felicidades a los novios. ¡Que viva el amor!",
+        "Que la felicidad os acompañe siempre. ¡Felicidades!",
+        "¡Enhorabuena! Que vuestro amor dure para siempre.",
+        "Os deseamos toda la felicidad del mundo. ¡Felicidades!",
+        "¡Felicidades, recién casados! Que el amor os guíe.",
+        "Que vuestro amor crezca cada día. ¡Enhorabuena!",
+        "¡Muchas felicidades! Hoy comienza vuestra historia."
+      ]
+    },
+    "graciosas": {
+      "label": "Frases Graciosas para Bodas",
+      "intro": "Frases divertidas y con humor para sacar una sonrisa a los novios en su gran día.",
+      "items": [
+        "¡Felicidades! Ahora sí que no hay escapatoria: hasta que la muerte (o el fútbol) os separe.",
+        "Enhorabuena a los novios. Consejo de experto: 'sí, querida' es la respuesta correcta a todo.",
+        "¡Ya era hora! Por fin habéis formalizado lo que todo el mundo sabía: que estáis locos el uno por el otro.",
+        "Felicidades a la pareja. Que vuestro matrimonio sea como el wifi: fuerte y que nunca se caiga.",
+        "¡Enhorabuena! Ahora tenéis una razón más para discutir: de quién es la culpa de llegar tarde.",
+        "El matrimonio es como una partida de ajedrez: el primero que mueve ficha ya ha perdido. ¡Felicidades!",
+        "Felicidades, novios. Recordad: la última palabra la tiene siempre la suegra."
+      ]
+    },
+    "religiosas": {
+      "label": "Frases Religiosas para Bodas",
+      "intro": "Frases con bendiciones y fe para parejas que celebran su unión ante Dios.",
+      "items": [
+        "Que Dios bendiga vuestra unión y os guíe siempre por el camino del amor. ¡Felicidades!",
+        "Que el amor de Dios sea el fundamento de vuestro matrimonio. Os deseamos toda la felicidad.",
+        "Dios os ha unido hoy. Que vuestro amor refleje siempre Su amor. ¡Enhorabuena!",
+        "Que el Señor bendiga este matrimonio y os conceda una vida llena de paz y amor.",
+        "Donde hay amor, ahí está Dios. Que vuestra casa esté siempre llena de ambos. ¡Felicidades!",
+        "Que vuestra unión sea bendecida hoy y siempre. Con la gracia de Dios, nada os faltará."
+      ]
+    },
+    "invitaciones": {
+      "label": "Frases para Invitaciones de Boda",
+      "intro": "Frases para invitaciones de boda: anuncios, tarjetas y texto para invitados.",
+      "items": [
+        "Con inmensa alegría os invitamos a celebrar nuestra boda y compartir con nosotros este día tan especial.",
+        "Queremos compartir el día más importante de nuestras vidas con las personas que más queremos. ¡Os esperamos!",
+        "Nos casamos y no sería lo mismo sin vosotros. Os invitamos a celebrarlo con nosotros.",
+        "El amor nos ha unido y queremos que celebréis este momento con nosotros. ¡Estáis invitados!",
+        "Con la bendición de nuestras familias, os invitamos a nuestra boda. Vuestra presencia será nuestro mejor regalo.",
+        "Dos corazones, una historia. Os invitamos a ser parte de este día inolvidable."
+      ]
+    },
+    "aniversario": {
+      "label": "Frases para Aniversario de Bodas",
+      "intro": "Frases para celebrar aniversarios de boda: mensajes para esposos, esposas y parejas.",
+      "items": [
+        "Feliz aniversario, mi amor. Cada año a tu lado es el mejor regalo que la vida me ha dado.",
+        "Hoy celebramos otro año de nuestro amor. Gracias por elegirme cada día. ¡Feliz aniversario!",
+        "Feliz aniversario de bodas. Que sigamos celebrando juntos muchos años más.",
+        "El tiempo pasa, pero nuestro amor crece. ¡Feliz aniversario, mi vida!",
+        "Un año más a tu lado, y todavía me sigues dando mariposas. ¡Feliz aniversario!",
+        "Feliz aniversario a la persona que convierte cada día ordinario en algo extraordinario.",
+        "Que nuestro amor siga creciendo año tras año. ¡Feliz aniversario, mi amor!"
+      ]
+    },
+    "oro": {
+      "label": "Frases para Bodas de Oro",
+      "intro": "Frases para celebrar 50 años de matrimonio: un amor que ha superado la prueba del tiempo.",
+      "items": [
+        "Cincuenta años de amor, respeto y compañía. Sois el ejemplo de lo que significa amar de verdad.",
+        "Medio siglo juntos y vuestro amor sigue brillando como el primer día. ¡Felicidades por vuestras bodas de oro!",
+        "Cincuenta años son muchos días, pero no suficientes para dejar de amaros. ¡Enhorabuena!",
+        "Vuestras bodas de oro son el premio a una vida de amor verdadero. Que Dios os siga bendiciendo.",
+        "Cincuenta años de matrimonio: un amor que ha resistido el paso del tiempo y se ha vuelto más fuerte.",
+        "Sois la prueba de que el amor de verdad existe y dura para siempre. ¡Felicidades por vuestro medio siglo juntos!"
+      ]
+    },
+    "novios": {
+      "label": "Frases para los Novios",
+      "intro": "Frases dedicadas directamente a los novios en su día especial.",
+      "items": [
+        "Para los novios más maravillosos: que vuestro amor sea tan infinito como vuestra felicidad.",
+        "Novios, hoy empieza lo mejor. Disfrutad cada momento, cada mirada, cada abrazo. ¡Felicidades!",
+        "Que vuestra boda sea tan perfecta como el amor que os une. ¡Enhorabuena, pareja!",
+        "A los novios: que vuestro amor sea la respuesta a todos los problemas y la razón de todas las alegrías.",
+        "Novios, que vuestra vida juntos sea un cuento con final feliz y capítulos interminables.",
+        "Hoy sois los protagonistas de la historia más bonita. ¡Felicidades a los novios!"
+      ]
+    },
+    "invitados": {
+      "label": "Frases para Invitados de Boda",
+      "intro": "Frases para escribir en el libro de firmas o para brindar como invitado.",
+      "items": [
+        "Gracias por invitarnos a ser parte de vuestro día. Que seáis muy felices. Con amor, [tu nombre].",
+        "Ha sido un honor celebrar vuestro amor. Que la vida os regale siempre razones para sonreír.",
+        "En este libro queda escrito: fuimos testigos de un amor verdadero. ¡Felicidades, pareja!",
+        "Gracias por compartir con nosotros este día inolvidable. Os deseamos una vida llena de amor.",
+        "Que vuestro matrimonio sea tan bonito como esta boda. ¡Felicidades y gracias por la invitación!",
+        "Felicidades a los novios. Ha sido un placer celebrar el comienzo de vuestra historia."
+      ]
+    }
+  }
+}
