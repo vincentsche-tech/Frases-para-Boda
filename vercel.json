@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "frasesparaboda.com"
+        }
+      ],
+      "destination": "https://www.frasesparaboda.com/:path*",
+      "permanent": true
+    }
+  ]
+}
